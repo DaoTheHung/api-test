@@ -1,9 +1,12 @@
 const express = require('express')
 const app = express()
 var bodyParser = require('body-parser')
+const cors = require('cors');
+
 const router = require('./routes/product')
 
 
+app.use(cors())
 
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
