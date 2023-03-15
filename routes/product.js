@@ -1,5 +1,5 @@
 const express = require('express')
-const { product } = require("../database/db")
+const { product } = require("../database/products")
 const router = express.Router()
 
 router.get('/', (req, res) => {
