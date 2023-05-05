@@ -203,7 +203,7 @@ const product = [
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-52_9437b4b1-02b6-4dc2-af44-c87bb82cf593_600x.jpg?v=1595414464",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-54_36804803-6ac6-42d7-a05d-3690f0026060_600x.jpg?v=1595414464",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-53_a40e2b52-bdad-4d14-9387-b0f07494cc61_2000x.jpg?v=1595414464",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-53_a40e2b52-bdad-4d14-9387-b0f07494cc61_2000x.jpg?v=1595414464",
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-56_2000x.jpg?v=1595414464",
     },
 
 
