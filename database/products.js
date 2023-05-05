@@ -6,8 +6,8 @@ const product = [
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1a_600x.jpg?v=1596259840",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1b-Version1_600x.jpg?v=1596259858",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1c_Version1_medium.jpg?v=1596259858",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1b-Version1_medium.jpg?v=1596259858",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1d_medium.jpg?v=1596259858",
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1c_Version1_medium.jpg?v=1596259858",
 
     },
     {
@@ -16,7 +16,7 @@ const product = [
         price: "880.00",
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2a_600x.jpg?v=1596259890",
-        imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2c_Version1_600x.jpg?v=1596259905",
+        imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2b_Version1_medium.jpg?v=1596259908",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2d.jpg?v=1596259908",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2c_Version1_medium.jpg?v=1596259905"
 
@@ -29,7 +29,7 @@ const product = [
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3a_600x.jpg?v=1596259963",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3c_Version1_600x.jpg?v=1596259975",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3d.jpg?v=1596259977",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3c_Version1_medium.jpg?v=1596259975"
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product2b_Version1_medium.jpg?v=1596259908"
 
     },
     {
@@ -50,7 +50,7 @@ const product = [
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-1_631b5b8e-1aa8-43de-ae6a-cb74b0e2462e_600x.jpg?v=1595414385",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-4_d4473519-8847-44ff-b320-215ed44f0739_600x.jpg?v=1595414385",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-6_af294e14-5550-4b4a-ae7d-1202e8ae2c6b.jpg?v=1595414385",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-6_af294e14-5550-4b4a-ae7d-1202e8ae2c6b_medium.jpg?v=1595414385"
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-2_cbb8de02-5c75-4f03-b830-59a97a6c4948_medium.jpg?v=1595414385"
 
     },
     {
@@ -61,8 +61,8 @@ const product = [
         star: "for",
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-37_020016e0-ddb3-4d67-8e5a-d42378ef9d00.jpg?v=1595414441",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-39_e73afc4e-b246-4c83-8207-68b105703781_600x.jpg?v=1595414441",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-41_8c210410-9eb0-4933-a336-605fbe2af6eb.jpg?v=1595414441",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-41_8c210410-9eb0-4933-a336-605fbe2af6eb_medium.jpg?v=1595414441"
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-38_c115d279-38df-4c70-a5ec-78696455d32f_medium.jpg?v=1595414441",
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-41_8c210410-9eb0-4933-a336-605fbe2af6eb.jpg?v=1595414441",
 
     },
     {
@@ -73,7 +73,7 @@ const product = [
         star: "for",
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-79_b56b789a-ec45-4f21-b119-bd42588f4e87_600x.jpg?v=1595414501",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-81_507b9dee-5e8d-4f10-8256-495f33a79508_600x.jpg?v=1595414501",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-83_d394931c-9168-42e9-b18c-0c10be6a2950.jpg?v=1595414501",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-80_8c4389b7-1535-420f-b8fc-b8c3a0474bea_medium.jpg?v=1595414501",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-83_d394931c-9168-42e9-b18c-0c10be6a2950_medium.jpg?v=1595414501"
 
     },
@@ -84,7 +84,7 @@ const product = [
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-27_1aaae500-ff30-40e6-a4a0-0caddfebe780.jpg?v=1595414425",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-29_422e2e6d-e8fe-4435-b91b-26de6cc9ed1a.jpg?v=1595414425",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-31_28cdd27f-0d39-403a-b666-a9b8fca49a1b.jpg?v=1595414425",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-28_758cbb62-1bf0-4f29-aeb1-cfe122675bf5_medium.jpg?v=1595414425",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-31_28cdd27f-0d39-403a-b666-a9b8fca49a1b_medium.jpg?v=1595414425"
 
     },
@@ -95,7 +95,7 @@ const product = [
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-57_600x.jpg?v=1595414471",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-60_600x.jpg?v=1595414471",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-62_607bc09b-fdd1-42aa-8d06-efabe9450477.jpg?v=1595414471",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-28_758cbb62-1bf0-4f29-aeb1-cfe122675bf5_medium.jpg?v=1595414425",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-62_607bc09b-fdd1-42aa-8d06-efabe9450477_medium.jpg?v=1595414471"
     },
     {
@@ -105,7 +105,7 @@ const product = [
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-7_4448e6c4-243a-4b81-8009-765baaa6ec64_600x.jpg?v=1595414392",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-9_b8e4188f-8af9-4ad9-b598-d8443fc55e06_600x.jpg?v=1595414392",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-11_cb37283b-c5ff-401c-b137-7e3a0fba0ff0.jpg?v=1595414392",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-8_6d88d9c6-ac96-4bcc-b811-1258644ba09b_medium.jpg?v=1595414392",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-11_cb37283b-c5ff-401c-b137-7e3a0fba0ff0_medium.jpg?v=1595414392"
 
     },
@@ -151,7 +151,7 @@ const product = [
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-22_d93f8cfe-9991-4402-8b1a-fcba95cc71f8_600x.jpg?v=1595414416",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-24_9d611ad2-4bc7-4cea-995e-918176cc06a5_600x.jpg?v=1595414416",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-23_8c844369-050b-4f83-8d53-0c57cbba0350_medium.jpg?v=1595414416",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-23_8c844369-050b-4f83-8d53-0c57cbba0350_medium.jpg?v=1595414416",
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-26_562383f0-7035-41a7-944a-e87c574e0ac9_medium.jpg?v=1595414416",
 
     },
     {
@@ -164,6 +164,7 @@ const product = [
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-48_a2fb0878-9eb0-4d8e-99ae-d45c836a0d17_medium.jpg?v=1595414457",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-51_2dd778c7-3c03-4169-b2c1-415265842fd1_medium.jpg?v=1595414457",
     },
+
     {
         id: 16,
         name: "Stereo Bass",
@@ -176,16 +177,6 @@ const product = [
     },
     {
         id: 17,
-        name: "Stereo Bass",
-        price: "910.00",
-        quantity: 1,
-        image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-12_424cc3a3-c350-4ce8-b34d-d7310909d16a_600x.jpg?v=1595414399",
-        imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-14_654ae108-be89-4941-a160-a66f2e8d5a00_600x.jpg?v=1595414399",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-13_5eb3def1-fc67-4d57-abb1-f9a19545bb06_medium.jpg?v=1595414399",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-16_4a361452-1708-4ddb-9703-69302ba26ee2_medium.jpg?v=1595414399",
-    },
-    {
-        id: 18,
         name: "Wireless Headset",
         price: "910.00",
         quantity: 1,
@@ -195,7 +186,7 @@ const product = [
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-36_20c9d831-e395-48f5-9cf9-7ca73aa0291b_medium.jpg?v=1595414433",
     },
     {
-        id: 19,
+        id: 18,
         name: "X2 Noise Isolated",
         price: "850.00",
         quantity: 1,
@@ -205,9 +196,9 @@ const product = [
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-73_2f78db8f-0492-4325-9cce-ca6fa255fb54_medium.jpg?v=1595414486",
     },
     {
-        id: 20,
-        name: "X2 Noise Isolated",
-        price: "850.00",
+        id: 19,
+        name: "X2 Stereo",
+        price: "910.00",
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-52_9437b4b1-02b6-4dc2-af44-c87bb82cf593_600x.jpg?v=1595414464",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-54_36804803-6ac6-42d7-a05d-3690f0026060_600x.jpg?v=1595414464",
