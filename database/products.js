@@ -40,7 +40,7 @@ const product = [
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-42_713214f6-ce84-43f2-adba-7a13a882ead3_600x.jpg?v=1595414449",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-44_6a471e3a-e3bf-4760-a207-1883a4e30dcf.jpg?v=1595414449",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-46_c1267b6c-75f2-4972-8187-4005be2c9060.jpg?v=1595414449",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-46_c1267b6c-75f2-4972-8187-4005be2c9060_medium.jpg?v=1595414449"
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-43_a2a643b4-63da-47c2-862a-e59120e7a606_medium.jpg?v=1595414449"
     },
     {
         id: 5,
@@ -115,7 +115,7 @@ const product = [
         price: "900.00",
         quantity: 1,
         star: "for",
-        image: "https://cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-63_cc0cc1b4-2e83-476f-8afa-3431effa928d_medium.jpg?v=1595414479",
+        image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-63_cc0cc1b4-2e83-476f-8afa-3431effa928d_600x.jpg?v=1595414479",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-65_6afb4717-aa7e-44ee-a2ab-dbcc5e6f55dc_600x.jpg?v=1595414479",
         imageSlick2: "https://cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-64_3621a5ad-8384-4054-9fdc-6dfaa6fa458b_medium.jpg?v=1595414479",
         imageSlick3: "https://cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-68_3c53de30-45e4-4658-9f7c-693d2b8584f3_medium.jpg?v=1595414479",
