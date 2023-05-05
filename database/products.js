@@ -6,7 +6,7 @@ const product = [
         quantity: 1,
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1a_600x.jpg?v=1596259840",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1b-Version1_600x.jpg?v=1596259858",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1d.jpg?v=1596259858",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1c_Version1_medium.jpg?v=1596259858",
         imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1b-Version1_medium.jpg?v=1596259858",
 
     },
