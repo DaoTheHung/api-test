@@ -4,6 +4,7 @@ const product = [
         name: "Kids Headphones",
         price: "850.00",
         quantity: 1,
+        star: "for",
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1a_2000x.jpg?v=1596259840",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1b-Version1_2000x.jpg?v=1596259858",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product1d_2000x.jpg?v=1596259858",
@@ -26,6 +27,7 @@ const product = [
         name: "On-Ear Headphones",
         price: "750.00",
         quantity: 1,
+        star: "for",
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3a_2000x.jpg?v=1596259963",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3c_Version1_2000x.jpg?v=1596259975",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/Product3d_2000x  .jpg?v=1596259977",
@@ -37,6 +39,7 @@ const product = [
         name: "Leather Headset",
         price: "910.00",
         quantity: 1,
+        star: "for",
         image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-42_713214f6-ce84-43f2-adba-7a13a882ead3_2000x.jpg?v=1595414449",
         imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-44_6a471e3a-e3bf-4760-a207-1883a4e30dcf.jpg?v=1595414449",
         imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-46_c1267b6c-75f2-4972-8187-4005be2c9060_2000x.jpg?v=1595414449",
@@ -47,10 +50,10 @@ const product = [
         name: "BT Headset",
         price: "910.00",
         quantity: 1,
-        image: "https://cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-79_b56b789a-ec45-4f21-b119-bd42588f4e87_2000x.jpg?v=1595414501",
-        imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-4_d4473519-8847-44ff-b320-215ed44f0739_2000x.jpg?v=1595414385",
-        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-6_af294e14-5550-4b4a-ae7d-1202e8ae2c6b__2000x.jpg?v=1595414385",
-        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-2_cbb8de02-5c75-4f03-b830-59a97a6c4948_2000x.jpg?v=1595414385"
+        image: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-1_631b5b8e-1aa8-43de-ae6a-cb74b0e2462e_2000x.jpg?v=1595414385",
+        imageSlick1: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-2_cbb8de02-5c75-4f03-b830-59a97a6c4948_2000x.jpg?v=1595414385",
+        imageSlick2: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-4_d4473519-8847-44ff-b320-215ed44f0739_2000x.jpg?v=1595414385",
+        imageSlick3: "//cdn.shopify.com/s/files/1/0434/2520/2335/products/shop-6_af294e14-5550-4b4a-ae7d-1202e8ae2c6b_2000x.jpg?v=1595414385"
 
     },
     {
