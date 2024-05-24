@@ -10,6 +10,20 @@ router.get('/', (req, res) => {
         data: product
     })
 })
+router.get('/:key', async (req, res) => {
+    let data = product.find(
+        {
+            "$or": [
+                {
+                    name: { $regex: req.params.key },
+                }
+            ]
+        }
+    )
+
+    res.json(data)
+})
+
 
 router.post('/', (req, res) => {
     const newProduct = {
